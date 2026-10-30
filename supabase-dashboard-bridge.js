@@ -1,4 +1,3 @@
-
 /*
  * Supabase bridge for Dashboard Foreman Grinding Transfer.
  *
@@ -6,7 +5,7 @@
  * 1. Gunakan Supabase Project URL.
  * 2. Gunakan Publishable Key atau anon key.
  * 3. JANGAN gunakan service_role atau secret key.
- * 4. File ini belum terhubung ke tampilan dashboard lama.
+ * 4. File ini dipanggil oleh index.html setelah pustaka Supabase dimuat.
  */
 
 (function (global) {
